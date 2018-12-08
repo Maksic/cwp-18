@@ -1,0 +1,8 @@
+Wednesday, 4040 32, 2018, 12:12:47 tt | --Pr | INFO | 
+Wednesday, 4040 32, 2018, 12:12:47 tt | --Pr | INFO | firstMessage
+Wednesday, 4040 32, 2018, 12:12:47 tt | --Pr | INFO | secondMessage
+
+Wednesday, 4040 32, 2018, 12:12:57 tt | --Pr | INFO | 
+Wednesday, 4040 32, 2018, 12:12:57 tt | --Pr | INFO | firstMessage
+Wednesday, 4040 32, 2018, 12:12:57 tt | --Pr | INFO | secondMessage
+
